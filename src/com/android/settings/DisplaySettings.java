@@ -30,7 +30,7 @@ import com.android.settings.display.NightModePreferenceController;
 import com.android.settings.display.ProximityOnWakePreferenceController;
 import com.android.settings.display.ScreenSaverPreferenceController;
 import com.android.settings.display.ShowOperatorNamePreferenceController;
-import com.android.settings.display.CustomOverlayPreferenceController;
+import com.atom.settings.display.CustomOverlayPreferenceController;
 import com.android.settings.display.TapToWakePreferenceController;
 import com.android.settings.display.ThemePreferenceController;
 import com.android.settings.display.TimeoutPreferenceController;

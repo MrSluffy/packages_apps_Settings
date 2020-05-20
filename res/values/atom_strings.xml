@@ -30,10 +30,7 @@
     <string name="smart_charging_reset_stats_summary">Reset battery statistics after reaching user defined charging level</string>
     <string name="smart_charging_footer">Smart Charging allows you to set maximum charging level to extend the lifespan of your battery</string>
 
-    <!-- Themes customisation -->
-    <string name="theme_customization_systemui_title">Color bucket</string>
-    
-        <!-- Whether to show or hide sensitive info (like IMEI and Phone Number) on About phone -->
+    <!-- Whether to show or hide sensitive info (like IMEI and Phone Number) on About phone -->
     <bool name="configShowDeviceSensitiveInfo">false</bool>
     
         <!-- String for removal of sensitive info on about, depending on tap -->
